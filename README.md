@@ -1,4 +1,5 @@
-## Hi there 👋
+### Brownnyi GitHub
+## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋
 
 <!--
 **brownnyi/brownnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
