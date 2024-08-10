@@ -1,3 +1,4 @@
+<div align="center">
 ### Brownnyi GitHub
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋
 
@@ -39,3 +40,5 @@ Here are some ideas to get you started:
 
 ## 📒DB📒
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
