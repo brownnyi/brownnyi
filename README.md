@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 </div>
 https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownnyi)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=150&section=footer" />
