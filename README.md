@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ## 📒DB📒
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Web
+<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif" border="0" alt="Powered by Django." title="Powered by Django." /></a>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownnyi)](https://github.com/anuraghazra/github-readme-stats)
