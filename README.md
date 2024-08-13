@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🌏Contact🌏
 <a href="https://brownnyi.tistory.com" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-EA5220?style=flat&logo=Tistory&logoColor=white" />
-</a>  <a href="mailto:brown970523@naver.com"><img src="https://img.shields.io/badge/Mail-D0A9F5?style=flat-square&logo=Mail&logoColor=white&link=mailto:brown970523@naver.com"/></a></p>
+</a> 
 
 
 ## 📚 Languages 📚
