@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300§ion=header&text=Hi!😊&desc=This%20is%20Brownnyi%20.GitHub%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 <div align="center">
 
-  ### Brownnyi GitHub
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋
 
 <!--
