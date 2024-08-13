@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌏Contact🌏
+<a href="https://brownnyi.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-EA5220?style=flat&logo=Tistory&logoColor=white" />
+</a>
+
 
 ## 📚 Languages 📚
 
