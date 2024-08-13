@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ## 🌏Contact🌏
 <a href="https://brownnyi.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-EA5220?style=flat&logo=Tistory&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tistory-EA5220?style=flat&logo=Tistory&logoColor=white" />
 </a>
 
 
