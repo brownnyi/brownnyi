@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🌏Contact🌏
-<a href="https://brownnyi.tistory.com" target="blank">
+<a href="https://brownnyi.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-EA5220?style=flat&logo=Tistory&logoColor=white" />
 </a>
 <a href="mailto:brown970523@naver.com"><img src="https://img.shields.io/badge/Mail-32CD32?style=flat-square&logo=Mail&logoColor=white&link=mailto:brown970523@naver.com"/></a>
