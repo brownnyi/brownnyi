@@ -3,7 +3,7 @@
 
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋 
 
-I want to be a Data Scientist or Data Analyst
+I want to be a Data Scientist
 
 ## 🌏Contact🌏
 <a href="https://brownnyi.tistory.com">
