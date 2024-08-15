@@ -3,6 +3,7 @@
 
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋 
 I'm Korean 🇰🇷
+
 I want to be a Data Scientist
 
 ## 🌏Contact🌏
