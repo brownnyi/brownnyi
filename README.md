@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=150&section=header" />
 <div align="center">
 
+
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋 
 I'm Korean 🇰🇷
 
