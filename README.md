@@ -5,7 +5,7 @@
 ## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋 
 I'm Korean 🇰🇷
 
-I want to be a Data Analyst!
+I want to be a Data Analyst or Data Scientist!
 
 ## 🌏Contact🌏
 <a href="https://brownnyi.tistory.com">
