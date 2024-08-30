@@ -34,6 +34,6 @@ I want to be a Data Analyst or Data Scientist!
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownnyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownnyi)]
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=150&section=footer" />
