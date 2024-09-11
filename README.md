@@ -13,7 +13,8 @@ I want to be a Data Analyst or Data Scientist!
 </a>
 <a href="mailto:brown970523@naver.com"><img src="https://img.shields.io/badge/Mail-32CD32?style=flat-square&logo=Mail&logoColor=white&link=mailto:brown970523@naver.com"/></a>
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=brownnyi.oopy.io)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://browwnyi.oopy.io)
+
 
 ## 📚 Languages 📚
 
