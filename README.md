@@ -34,7 +34,7 @@ I want to be a Data Analyst or Data Scientist!
 ![Streamlit](https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 😎Visualization & DashBoard😎
-![image](https://github.com/user-attachments/assets/b8113fff-aec4-4c98-bc35-a10b55e7ed8f)
+[![image](https://github.com/user-attachments/assets/b8113fff-aec4-4c98-bc35-a10b55e7ed8f)](https://public.tableau.com/app/profile/seungwoo.lee3352/vizzes)
 
 </div>
 
