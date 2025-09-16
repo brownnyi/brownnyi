@@ -2,7 +2,7 @@
 <div align="center">
 
 
-## Brownnyi is (Charlie) Brown + Yi (Seung Woo)👋 
+## Brownnyi is (Charlie) Brown + Yi (First Name)👋 
 I'm Korean 🇰🇷
 
 I want to be a Data Analyst or Data Scientist!
